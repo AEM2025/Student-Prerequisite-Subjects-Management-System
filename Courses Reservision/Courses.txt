@@ -1,0 +1,5 @@
+Data Structure	3452	300	C++ programming	36	Course isn't Usuful
+Algorithms	4668	220	Data Structure	45	Course is Stupid
+C++ programming	6468	500		32	Nothing 
+DS	6469	33		2523	THIS is very good for you 
+IS 	6470	66		36	i love this 
