@@ -49,3 +49,9 @@ This project will take the course list and their prerequisites list from Admin o
 
 ## Notes:
 - Name and Password for Admin user can be found in <i>Courses Reservision -> Accounts.txt </i>. You can change them to whatever you want.
+
+## How to Use?
+1. To run the project and see the full design follow this steps:
+   - Download the project in your machine.
+   - Open <i>Courses Reservision.sln</i> file.
+2. If you want to try using the program : <i>Debug -> Courses Reservision.exe </i>
